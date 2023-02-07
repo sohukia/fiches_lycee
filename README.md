@@ -11,4 +11,4 @@ Si vous avez des fiches de révision de spé mathématiques que vous voulez part
 Le forum sera bientôt ouvert sur ce repos
 
 ### Petit plus 
-Ceux qui font NSI, le [discord] (https://discord.gg/MZr85SpK) est ouvert !
+Ceux qui font NSI, le [discord](https://discord.gg/MZr85SpK) est ouvert !
